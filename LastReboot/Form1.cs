@@ -48,7 +48,7 @@ namespace LastReboot
             //public static String ServerToConn = "";
             public static String ServerToConn = "69.146.195.176,1420";
             public static String UserName = "autobot";
-            public static String Password = "1conlon2";
+            --- THIS WAS THE PASSWORD STRING --- REMOVED FOR SECURITY ---
             public static String InitialCatalog = "inventory";
 
             public static String CurrentAV = "";
